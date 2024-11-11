@@ -1,0 +1,8 @@
+numpy 
+soundfile 
+librosa 
+torch
+torchaudio
+tqdm 
+wavmark
+audioseal
